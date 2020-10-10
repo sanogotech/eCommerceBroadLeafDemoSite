@@ -2,6 +2,12 @@
 
 This Maven project is a Spring boot implementation of a community [Broadleaf Commerce](http://www.broadleafcommerce.org) application. It has many sensible defaults set up along with examples of how a fully functioning eCommerce site based on Broadleaf might work.
 
+
+##  Docs
+
+- https://www.broadleafcommerce.com/docs/core/current/getting-started/running-locally
+
+- https://www.broadleafcommerce.com/documentation/catalog-management/overview
 ## Project Overview
 
 The Community Demo is comprised of 4 individual projects:
