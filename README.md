@@ -5,9 +5,13 @@ This Maven project is a Spring boot implementation of a community [Broadleaf Com
 
 ##  Docs
 
+- https://www.broadleafcommerce.com/videos
+
 - https://www.broadleafcommerce.com/docs/core/current/getting-started/running-locally
 
 - https://www.broadleafcommerce.com/documentation/catalog-management/overview
+
+- https://www.broadleafcommerce.com/docs/paypal/current/paypal-quick-starthttps://www.broadleafcommerce.com/docs/paypal/current/paypal-quick-start
 
 --PREREQUISITES
 First, download the Java 8 /11 Development Kit: either the official Oracle JDK or Open JDK
