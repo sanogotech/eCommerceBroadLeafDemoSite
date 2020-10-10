@@ -8,6 +8,10 @@ This Maven project is a Spring boot implementation of a community [Broadleaf Com
 - https://www.broadleafcommerce.com/docs/core/current/getting-started/running-locally
 
 - https://www.broadleafcommerce.com/documentation/catalog-management/overview
+
+--PREREQUISITES
+First, download the Java 8 /11 Development Kit: either the official Oracle JDK or Open JDK
+You will also need the latest version of Maven (at least version 3.3.9, version 3.5.4 is recommend
 ## Project Overview
 
 The Community Demo is comprised of 4 individual projects:
