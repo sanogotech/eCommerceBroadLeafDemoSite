@@ -4,7 +4,7 @@ This Maven project is a Spring boot implementation of a community [Broadleaf Com
 
 
 ##  Docs
-
+- https://www.broadleafcommerce.com/features/cart
 - https://www.broadleafcommerce.com/videos
 
 - https://www.broadleafcommerce.com/docs/core/current/getting-started/running-locally
